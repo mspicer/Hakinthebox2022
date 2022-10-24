@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "companion-rescue")(type "Legacy")(uri "${KIPRJMOD}/companion-rescue.lib")(options "")(descr ""))
+)
