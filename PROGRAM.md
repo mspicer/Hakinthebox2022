@@ -3,8 +3,9 @@
 
 
 ## Installing Libraries
-- Install the ATtiny code by adding this url to the Additional Board Manager URLS: 
+- Install the ATtiny code by adding this url to the Additional Board Manager URLS: http://drazzy.com/package_drazzy.com_index.json
 - More info on this library at https://github.com/SpenceKonde/ATTinyCore
+
 ## Programming Connections
 
 ## Flashing Configuration
