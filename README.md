@@ -4,9 +4,11 @@
 
 ### Step 1
 - Solder the attiny85 to the base pcb.
+
 ![Step 1](assembly-images/step1.png)
 ### Step 2
 - Solder the first two leds on the base pcb.
+
 ![Step 2](assembly-images/step2.png)
 ### Step 3
 ![Step 3](assembly-images/step3.png)
