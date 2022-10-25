@@ -3,7 +3,8 @@
 
 
 ## Installing Libraries
-
+- Install the ATtiny code by adding this url to the Additional Board Manager URLS: 
+- More info on this library at https://github.com/SpenceKonde/ATTinyCore
 ## Programming Connections
 
 ## Flashing Configuration
