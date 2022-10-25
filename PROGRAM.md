@@ -13,3 +13,7 @@
 
 ## Flashing Configuration
 ![Programming Config](programming-settings.png)
+
+## Flashing
+- First select the programmer that you have attached and burn the bootloader
+- Then double check the configuration and press Ctrl+Shift+U
