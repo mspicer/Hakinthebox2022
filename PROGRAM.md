@@ -7,5 +7,7 @@
 - More info on this library at https://github.com/SpenceKonde/ATTinyCore
 
 ## Programming Connections
+- When looking down at the board from above only the lower right six pins are used for programming.
 
+![Headers](kicad-files/headers.png)
 ## Flashing Configuration
