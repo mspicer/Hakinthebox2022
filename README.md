@@ -1,5 +1,8 @@
 # Hack-in-the-box 2022 Badge Guide
 
+- PCB.md contains the schematics and pcb layout for each board. This may be helpful for assembly or programming.
+- PROGRAM.md contains information on flashing the boards with the current or custom code if desired.
+
 ## Assembly
 
 ### Step 1
