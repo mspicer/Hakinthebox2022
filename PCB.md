@@ -1,3 +1,5 @@
+# Hack-in-the-box 2022 Badge Schematics and PCB Layout
+
 ## Base PCB Schematic
 ![Base PCB Schematic](kicad-files/base-schematic.PNG)
 
