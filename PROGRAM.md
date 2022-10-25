@@ -12,4 +12,4 @@
 ![Headers](kicad-files/headers.png)
 
 ## Flashing Configuration
-![Programming Config](programming-configuration.png)
+![Programming Config](programming-settings.png)
